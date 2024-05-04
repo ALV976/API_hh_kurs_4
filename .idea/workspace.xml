@@ -33,7 +33,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/ALV976/API_hh_kurs4.git",
+    "url": "https://github.com/ALV976/API_hh_kurs_4.git",
     "accountId": "eb988cc5-1e8c-4346-bc28-5bfda1790ebe"
   }
 }]]></component>
@@ -81,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714852169488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="begin">
+      <option name="closed" value="true" />
+      <created>1714852514067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714852514067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="begin">
+      <option name="closed" value="true" />
+      <created>1714852579951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714852579951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
